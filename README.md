@@ -1,4 +1,6 @@
-## Hi! I'm Ivan 🤖👋
+<div align="center">
+<h1 align="center"> ## Hi! I'm Ivan 🤖👋 👋</h1>
+</div>
 
 <!--
 **IvanRenatoC/IvanRenatoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
