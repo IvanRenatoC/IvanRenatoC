@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center"> Hi! I'm Ivan 🤖 👋</h1>
+<h1 align="center"> Hi! I'm Ivan ✌🏽 </h1>
 </div>
 
 ## About me
 
 - 🧠 Head of Data Science
-- 🤓 Programo frecuentemente en Python
-- 🤖 Usuario frecuente de OpenIA y Gemini
+- 🤓 I frequently program on Python
+- 🤖 I believe that automation opens spaces for innovation
 <!--
 **IvanRenatoC/IvanRenatoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
