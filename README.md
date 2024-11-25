@@ -5,6 +5,8 @@
 ## About me
 
 - 🧠 Head of Data Science
+- 🤓 Programo frecuentemente en Python
+- 🤖 Usuario frecuente de OpenIA y Gemini
 <!--
 **IvanRenatoC/IvanRenatoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
