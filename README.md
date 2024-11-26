@@ -7,6 +7,7 @@
 -->
 <img src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/refs/heads/main/Ivan%20seg%C3%BAn%20GPT.jpg">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanrenatoc&label=Profile%20views&color=0e75b6&style=flat" alt="ivanrenatoc" /> </p>
 ## About me
 
 - 🧠 Head of Data Science
