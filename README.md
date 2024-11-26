@@ -7,6 +7,7 @@
 - 🧠 Head of Data Science
 - 🤓 I frequently program on Python
 - 🤖 I believe that automation opens spaces for innovation
+- 💬 My trending topics are IA, Machine Learning and GenIA
 <!--
 **IvanRenatoC/IvanRenatoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
