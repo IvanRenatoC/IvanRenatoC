@@ -11,7 +11,12 @@
 
 ## About me
 
-- 🧠 Head of Data Science
+- 🧠 Head of **Data Science & ML Engineering**
+- 🌱 I’m currently learning **Polars**
+- 🔭 I’m currently working on **GenIA**
+- 👨‍💻 All of my projects are available at [github.com/ivanrenatoc](github.com/ivanrenatoc)
+- 💬 Ask me about **Science and sports**
+- 📧 How to reach me **ivancanales.c@gmail.com**
 - 🤓 I frequently program on Python
 - 🤖 I believe that automation opens spaces for innovation
 - 💬 My trending topics are IA, Machine Learning and GenIA
