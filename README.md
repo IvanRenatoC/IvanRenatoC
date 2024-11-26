@@ -21,7 +21,7 @@
 - 🤖 I believe that automation opens spaces for innovation
 - 💬 My trending topics are IA, Machine Learning and GenIA
 
-## Título
+## Technical skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
