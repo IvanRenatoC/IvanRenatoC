@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center"> Hi! I'm Ivan ✌🏽 </h1>
 </div>
+<img src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/refs/heads/main/Ivan%20seg%C3%BAn%20GPT.webp">
 
 ## About me
 
