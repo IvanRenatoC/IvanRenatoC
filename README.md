@@ -59,6 +59,6 @@
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/main/metrics.svg" alt="metrics" />
+  <img src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/main/metrics.svg?v=2" alt="metrics" />
 </p>
 
