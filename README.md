@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/refs/heads/main/Ivan%20seg%C3%BAn%20GPT.jpg">
 -->
 <img
-  src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/main/assets/github-banner.png"
+  src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/main/assets/github-banner-1.png"
   alt="Ivan — Machine Learning Engineering | Data Science | AI"
   width="100%"
 />
