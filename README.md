@@ -5,8 +5,14 @@
 <!--
 <img src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/refs/heads/main/Ivan%20seg%C3%BAn%20GPT.webp">
 -->
+<!--
 <img src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/refs/heads/main/Ivan%20seg%C3%BAn%20GPT.jpg">
-
+-->
+<img
+  src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/main/assets/github-banner.png"
+  alt="Ivan — Machine Learning Engineering | Data Science | AI"
+  width="100%"
+/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanrenatoc&label=Profile%20views&color=0e75b6&style=flat" alt="ivanrenatoc" /> </p>
 
 ## About me
