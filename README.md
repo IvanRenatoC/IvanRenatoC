@@ -147,13 +147,12 @@
 
 
 <p align="left">
-  <a href="https://github.com/IvanRenatoC">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=IvanRenatoC&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true"
-      alt="GitHub stats"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=IvanRenatoC&show_icons=true&theme=transparent&hide_border=true"
+    alt=""
+  />
 </p>
+
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/IvanRenatoC/IvanRenatoC/main/metrics.svg?v=2" alt="metrics" />
