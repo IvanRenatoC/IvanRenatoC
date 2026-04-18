@@ -45,6 +45,65 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<p><strong>GenAI</strong></p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://openai.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/openai.webp" alt="gpt" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://claude.ai" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/claude.webp" alt="claude" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://deepmind.google/technologies/gemini" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/gemini.webp" alt="gemini" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://gemini.google/overview/image-generation" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/nanobanana.webp" alt="gemini banana" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.claude.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/claudecode.webp" alt="claude code" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://llama.meta.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/meta.webp" alt="llama" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://antigravity.google" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/antigravity.webp" alt="antigravity" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cursor.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/cursor.webp" alt="cursor" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://deepseek.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/deepseek.webp" alt="deepseek" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://notebooklm.google" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/notebooklm.webp" alt="notebooklm" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <p><strong>Cloud & Databases</strong></p>
 
 <table>
