@@ -207,7 +207,7 @@
 
 ---
 
-<p><strong>DevOps, Analytics & Visualization</strong></p>
+<p><strong>DevOps, Integrations & Visualization</strong></p>
 
 <table>
   <tr>
@@ -217,13 +217,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -239,6 +239,16 @@
     <td align="center">
       <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://docs.cloud.google.com/data-studio/about-pro?hl=es-419" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="kibana" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.qlik.com/us/products/qlikview" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/374022/qlikview.svg" alt="kibana" width="40" height="40"/>
       </a>
     </td>
   </tr>
