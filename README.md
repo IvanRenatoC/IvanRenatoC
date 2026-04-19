@@ -251,6 +251,11 @@
         <img src="https://www.svgrepo.com/show/374022/qlikview.svg" alt="kibana" width="40" height="40"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+        <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="kibana" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 
