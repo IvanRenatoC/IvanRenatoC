@@ -227,6 +227,11 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://ngrok.com/" target="_blank" rel="noreferrer">
+        <img src="https://hexmos.com/freedevtools/svg_icons/ngrok/ngrok-original.svg" alt="seaborn" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://n8n.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png" alt="seaborn" width="40" height="40"/>
       </a>
