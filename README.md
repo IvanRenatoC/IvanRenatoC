@@ -207,7 +207,7 @@
 
 ---
 
-<p><strong>DevOps, Integrations & Visualization</strong></p>
+<p><strong>DevOps & Integrations</strong></p>
 
 <table>
   <tr>
@@ -226,6 +226,24 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png" alt="seaborn" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.make.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/make-color.png" alt="chartjs" width="40" height="40"/>
+      </a>
+    </td>
+</table>
+
+---
+
+<p><strong>Analytics & Visualization</strong></p>
+
+<table>
+  <tr>
     <td align="center">
       <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
