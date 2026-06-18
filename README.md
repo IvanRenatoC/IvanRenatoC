@@ -30,7 +30,7 @@
 - 👨‍💻 All of my projects are available at [github.com/ivanrenatoc](https://github.com/ivanrenatoc)
 - 🤓 I frequently program on Python and Rgui
 - 🤖 I believe that automation opens spaces for innovation
-- 🌱 I'm currently learning of ethical data housing.
+- 🌱 I'm currently learning of ethical data housing
 
 ## Technical skills
 
