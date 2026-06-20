@@ -23,14 +23,14 @@
 ## About me
 
 - 🧠 Head of **Data Science & ML Engineering**
-- 💬 My trending topics are GenIA, Machine Learning, Deep Learning and AI
-- 🔭 I'm working and try to write about *GenIA* everyday
-- 🗣️ But we can also talk about lakehouses and data mesh
-- 💬 Or maybe ask me about **Science and Sports**, maybe I have an opinion of interest to you
-- 👨‍💻 All of my projects are available at [github.com/ivanrenatoc](https://github.com/ivanrenatoc)
-- 🤓 I frequently program on Python and Rgui
-- 🤖 I believe that automation opens spaces for innovation
-- 🌱 I'm currently learning of ethical data housing
+- 💬 My trending topics are GenIA, Machine Learning, Deep Learning and AI.
+- 🔭 I'm working and try to write about *GenIA* everyday.
+- 🗣️ But we can also talk about lakehouses and data mesh.
+- 💬 Or maybe ask me about **Science and Sports**, maybe I have an opinion of interest to you.
+- 👨‍💻 All of my projects are available at [github.com/ivanrenatoc](https://github.com/ivanrenatoc).
+- 🤓 I frequently program on Python and Rgui.
+- 🤖 I believe that automation opens spaces for innovation.
+- 🌱 I'm currently learning of ethical data housing.
 
 ## Technical skills
 
