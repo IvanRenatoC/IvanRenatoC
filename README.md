@@ -22,7 +22,7 @@
 
 ## About me
 
-- 🧠 Head of **Data Science & ML Engineering**
+- 🧠 Head of **Data Science & ML Engineering.**
 - 💬 My trending topics are GenIA, Machine Learning, Deep Learning and AI
 - 🔭 I'm working and try to write about *GenIA* everyday
 - 🗣️ But we can also talk about lakehouses and data mesh
