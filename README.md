@@ -31,6 +31,7 @@
 - 🤓 I frequently program on Python and Rgui.
 - 🤖 I believe that automation opens spaces for innovation.
 - 🌱 I'm currently learning of ethical data housing.
+- 👷🏼‍♂️ And my professional background is here: https://ivanrenatoc.github.io/ivanrenatoc-about-me/
 
 ## Technical skills
 
