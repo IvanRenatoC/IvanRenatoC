@@ -75,6 +75,11 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://openai.com/es-ES/codex/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/codex-color.png" alt="codex" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://llama.meta.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/meta.webp" alt="llama" width="40" height="40"/>
       </a>
